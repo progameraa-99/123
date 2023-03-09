@@ -1,0 +1,11 @@
+.line{
+    height: 7px;
+    width: 90px;
+    background-color: blue;
+    margin: 40px auto;
+}
+
+
+body{
+    text-align: center;
+}
